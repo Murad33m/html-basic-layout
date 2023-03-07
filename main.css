@@ -1,0 +1,35 @@
+header {
+    display: flex;
+    background-color: #dfe4ea;
+}
+
+.logo img {
+    width: 200px;
+    display: inline;
+    
+/* }
+.linkler {
+    background-color: rgb(205, 155, 248); */
+}
+.linkler a {
+    font-size: 28px;
+    text-decoration: none;
+}
+.ana {
+    color: brown;
+}
+.xidmet {
+    color: dimgrey;
+}
+.beynelxalq {
+    color: rgb(82, 4, 82);
+}
+.mail {
+    color: rgb(60, 191, 60);
+}
+.nomre {
+    color: rgb(253, 1, 1);
+}
+.ifade {
+    background-color: rgb(164, 186, 186);
+}
